@@ -10,17 +10,17 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "Joy-bot",
-  "PREFIX": ".",
+  "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100001435123762"
+    "61582847128354"
   ],
   "ADMINBOT": [
-    "100001435123762",
+    "61582847128354",
     ""
   ],
-  "OWNER": ["100001435123762"], 
+  "OWNER": ["61582847128354"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
