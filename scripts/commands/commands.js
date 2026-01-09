@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "cmd",
+  name: "اوامر",
   version: "1.0.0",
   permission: 2,
   credits: "ryuko",
